@@ -3,7 +3,7 @@ program Gws2;
 uses
   Vcl.Forms,
   uError,
-  FMX.Dialogs,
+  Vcl.Dialogs,
   opWString,
   uTSingleESRIgrid,
   uTriwacoGrid,
